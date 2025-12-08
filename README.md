@@ -17,7 +17,7 @@
 ## 1️⃣ - 🛠️ Instalando e Configurando o Ambiente  
 
 ### 🐧 Linux (GCC)  
-📌 **Ubuntu/Debian:**  
+📌 **Ubuntu/Debian:**
 ```bash
 sudo apt update && sudo apt install build-essential
 ```  
