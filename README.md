@@ -34,7 +34,7 @@ sudo dnf install gcc-c++
 ### ⚙️ Configurando o **VS Code**  
 1️⃣ Instale a extensão **C/C++** da Microsoft no **VS Code**  
 2️⃣ Crie um arquivo `tasks.json` na pasta `.vscode` 📂 para configurar a build automática  
-3️⃣ Crie um arquivo `launch.json` na pasta `.vscode` 🐞 para configurar o **Debugging**  
+3️⃣ Crie um arquivo `launch.json` na pasta `.vscode` 🐞 para configurar o **Debugging**
 
 
 
