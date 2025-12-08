@@ -58,7 +58,7 @@ sudo dnf install gcc-c++
 
 ## 🤝 Contribuições  
 
-💡 Contribuições são **bem-vindas**! Se você tem sugestões de melhorias ou novos exemplos, sinta-se à vontade para abrir uma **pull request**.  
+💡 Contribuições são **bem-vindas**! Se você tem sugestões de melhorias ou novos exemplos, sinta-se à vontade para abrir uma **pull request**.
 
 ![thanks-gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhyMTR4ZnB6NHd4MjYzaTI4d2o3a2pua2c3OW5sc3NudWp4aGdweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.webp)  
 
